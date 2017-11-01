@@ -2,7 +2,7 @@
   "name": "simple-express-starter",
   "version": "1.0.0",
   "description": "A easier way to start an express app",
-  "main": "Server/index.js",
+  "main": "Server/Server.js",
   "scripts": {
     "test": "test"
   },
