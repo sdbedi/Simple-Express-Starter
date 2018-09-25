@@ -5,12 +5,12 @@ npm start
 
 
 
-Expressjs generator is feature rich and very powerful, but it is also heavy, confusing, and it all but forces you to use server side rendering. 
+Expressjs generator is feature rich and very powerful, but is also heavy, confusing, and all but forces you to use server side rendering. 
 
-There are Express 'Hello World' type Packages out there. This is something in between 
+On the flipside, There are Express 'Hello World' type Packages out there. This is something in between. 
 
-Out of the box, Node/Express server, which when started serves an index.html as well as an Index.js file
-It also contains stubs for handling GET and POST requests. 
+Out of the box, this package delivers a Node/Express server, which when started serves an index.html as well as an Index.js file.
+The server also contains stubs for handling GET and POST requests. 
 
 1. Static site
 
